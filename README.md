@@ -10,6 +10,7 @@ All of my walkthroughs of TryHackMe rooms, published on [Medium](https://medium.
 | 5.	| [Junior Security Analyst Intro](https://medium.com/@taylorwavra/junior-security-analyst-intro-tryhackme-walkthrough-0494f3519e31)|Easy|Free|
 | 6.	| [SOC Metrics and Objectives](https://medium.com/@taylorwavra/soc-metrics-and-objectives-tryhackme-walkthrough-e190acd69e04)|Easy|Free|
 | 7.	| [SOC Workbooks and Lookups](https://medium.com/@taylorwavra/soc-workbooks-and-lookups-dd40e22c0279)|Easy|Premium|
+| 8.	| [Humans as Attack Vectors](https://medium.com/@taylorwavra/humans-as-attack-vectors-tryhackme-walkthrough-953fb8577eb8)|Easy|Premium|
 
 
 <!--
