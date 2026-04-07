@@ -1,5 +1,5 @@
 # TryHackMe Walkthroughs
-All of my walkthroughs of TryHackMe rooms, published on [Medium](https://medium.com/@taylorwavra/list/tryhackme-walkthroughs-01fce5ee8ab7)
+> All of my walkthroughs of TryHackMe rooms, published on [Medium](https://medium.com/@taylorwavra/list/tryhackme-walkthroughs-01fce5ee8ab7)
 
 | No. | Room Name | Difficulty | Subscription |
 |-----|--------------|------------------|------------------|
